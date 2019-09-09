@@ -1,9 +1,11 @@
 label {
     display: block;
-    Width: 300px
+    Width: 300px;
+    border-radius: 5px;
 }
 
 input {
     display: block;
-    Width: 300px
+    Width: 300px;
+    border-radius: 5px;
 }
